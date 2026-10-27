@@ -1,0 +1,11 @@
+# Community Cloud checks beside the entry point first. This copy also supports
+# deploying this project as a subfolder inside a larger GitHub repository.
+streamlit==1.66.1
+Pillow>=10.0,<13
+numpy>=1.26,<3
+scipy>=1.11
+scikit-image>=0.22
+torch>=2.2,<3
+diffusers>=0.30,<1
+transformers>=4.40,<6
+safetensors>=0.4
